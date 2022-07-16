@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sif101@hotmail.co.uk
+	name = Shahid Farooq
